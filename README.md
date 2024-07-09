@@ -5,10 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...Github
 - 🌱 I’m currently learning ...Github
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...my Life
 - 📫 How to reach me: ...801-623-8063
 - 😄 Pronouns: ...He/Him
